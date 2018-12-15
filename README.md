@@ -1,8 +1,11 @@
 # Odczytywanie-zamowie-
 
 Przykładowe uruchomienie projektu w środowisku Linux:
+
 $ compile.sh && ./run.sh [argumenty]
+
 I windows
+
 > compile.bat && run.bat [argumenty]
 
 Zadanie
